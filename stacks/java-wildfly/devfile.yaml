@@ -9,6 +9,9 @@ metadata:
   tags:
     - Java
     - WildFly
+  architectures:
+    - amd64
+    - arm64
   projectType: WildFly
   language: Java
 starterProjects:
